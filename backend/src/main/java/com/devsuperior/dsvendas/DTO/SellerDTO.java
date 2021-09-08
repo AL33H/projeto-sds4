@@ -1,12 +1,11 @@
 package com.devsuperior.dsvendas.DTO;
 
-import com.devsuperior.dsvendas.entities.Sale;
+
 import com.devsuperior.dsvendas.entities.Seller;
 
 
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class SellerDTO implements Serializable {
 
